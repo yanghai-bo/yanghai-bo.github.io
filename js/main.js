@@ -55,7 +55,7 @@ function initScreen(){
 	$("#overCanvas").attr({"height":SCREEN_HEIGHT});
 	$("#canvasDiv").css({"width":SCREEN_WIDTH});
 	$("#canvasDiv").css({"height":SCREEN_HEIGHT});
-	$("#canvasDiv").css({"background-color":"#fff"});
+	$("#canvasDiv").css({"background-color":"#000"});
 	
 }
 
